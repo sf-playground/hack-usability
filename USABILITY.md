@@ -16,7 +16,8 @@ To guide the effort we put towards creating Hack, we use the following assumptio
 2. Hack is not limited to a specific platform.
 3. Hack is used with a type-size between _8px_ and _14px_.
 4. Hack is used with a line-height between _100%_ and _150%_.
-5. Hack is optimized for and tested with the most common programming languages; Javascript, Python, Ruby, Java, PHP, CSS, HTML and C/C++.
+5. Hack aims to be an acceptible typeface for source code even _without_ syntax highlighting.
+6. Hack is optimized for and tested with the most common programming languages and uses; Javascript, Python, Ruby, Java, PHP, Markdown, CSS, HTML and C/C++.
 
 This does not mean that issues that fall outside of these parameters are ignored. Any valid use-case that helps us improve the overall usability of Hack is welcomed with open brackets.
 
