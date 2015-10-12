@@ -1,4 +1,4 @@
-## Hack; usability vs. identity
+# Hack; usability vs. identity
 
 A programmer's typeface is one of his most important tools. It is therefor not without reason that so many of us are constantly on the look out for a typeface that just _feels better_. This 'perfect grip' is a delicate balance between usability and identity.
 
@@ -14,12 +14,16 @@ To guide the effort we put towards creating Hack, we use the following assumptio
 
 1. Hack is a typeface primarily used for _source code_.
 2. Hack is not limited to a specific platform.
-3. Hack is used with a type-size between _8px_ and _14px_.
+3. Hack is used with a type-size between _8px_ and _14px_
 4. Hack is used with a line-height between _100%_ and _150%_.
 5. Hack aims to be an acceptible typeface for source code even _without_ syntax highlighting.
 6. Hack is optimized for and tested with the most common programming languages and uses; Javascript, Python, Ruby, Java, PHP, Markdown, CSS, HTML and C/C++.
 
 This does not mean that issues that fall outside of these parameters are ignored. Any valid use-case that helps us improve the overall usability of Hack is welcomed with open brackets.
+
+## Metrics (in lieu of a better title)
+
+Hinting suggests that _12px_ is the 'ideal' size for Hack, because that is where the stroke-width in the design (with roots dating back to about 2000) is closest to 1px, and thus fits best to the pixel grid on the screen. The corresponding x-height at that size is _7px_ with a glyph width of _7px_ as well. At _14px_ this area is _8p x 8px_.
 
 ## [PROPOSAL] How to deal with usability (issues)?
 
