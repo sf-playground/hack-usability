@@ -1,4 +1,4 @@
-# Hack; usability vs. identity
+## Hack; usability vs. identity
 
 A programmer's typeface is one of his most important tools. It is therefor not without reason that so many of us are constantly on the look out for a typeface that just _feels better_. This 'perfect grip' is a delicate balance between usability and identity.
 
