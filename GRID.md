@@ -20,12 +20,12 @@ Image 1:
 - The black pixels are purely usability.
 - The green pixels are added for identity.
 
-![](https://github.com/sf-playground/hack-usability/raw/master/images/example-1.png)
+![](https://raw.githubusercontent.com/sf-playground/hack-usability/master/images/grid-example-1.png)
 
 Image 2:
 - Compare the actual hinted and subpixel anti-aliased output at 12px.
 
-![](https://github.com/sf-playground/hack-usability/raw/master/images/example-2.png)
+![](https://raw.githubusercontent.com/sf-playground/hack-usability/master/images/grid-example-2.png)
 
 Preliminary conclusions:
 - The lowercase `i` is by far the best aligned character in this set.
