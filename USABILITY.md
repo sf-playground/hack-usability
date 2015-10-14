@@ -1,10 +1,12 @@
 # Hack; usability vs. identity
 
-A programmer's typeface is one of his most important tools. It is therefor not without reason that so many of us are constantly on the look out for a typeface that just _feels better_. This 'perfect grip' is a delicate balance between usability and identity.
+A programmer's typeface is an important part of the development toolset, and one that tends to divide developers into strongly held allegiances in much the same way that text editors do. The appeal of any given typeface for source is the result of a complex combination of subjective and objective factors. The former include the shapes, rhythm, and spacing of the face; design decisions that combine to produce its _identity_. The primary objective factor is its _usability_; a feature that determines its usefulness in a body of source code text presented to the viewer.
 
-This document will be an outline of the usability aspects of this project. Our aim is to develop a set of guidelines which allows us to objectively specify and measure Hack's usability; in comparison to other typefaces, but also within different environments. We acknowledge that perfection in such a diverse context is impossible. However, we strongly believe that transparency in the design process, and an open and active discussion with the community, will result in a solid tool.
+We cannot hope to create an identity that appeals to all users. We can however modify the design in order to optimize its usability in source code. Therefor this is our primary objective for the Hack typeface.
 
-The identity of Hack is a rather subjective enigma that lies somewhere between lead designer @chrissimpkins' gut feelings, and the design concept of _form follows function_, or in our terms `($usability >= @identity) === true`.
+This document defines and lays out our approach to the usability of the Hack typeface. Our aim is to develop a set of guidelines which allow us to objectively specify and measure the usability of these fonts across diverse font rendering environments, and compare this face with other commonly used source code typefaces. We acknowledge that this will not be a perfect tool and that our decisions about usability may not be uniformly acceptable to developers who consider the instrument. However, we strongly believe that a novel typeface development approach that includes a user-centric design focus, transparency in the design process, and an open and active discussion with the developer community will result in a useful development tool.
+
+The identity of Hack is a rather subjective enigma that lies somewhere between lead designer @chrissimpkins' gut feelings, and the design concept of _form follows function_; or in our terms `($usability >= @identity) === true`.
 
 The introduction above leads to an imperfect solution for a broad target audience, and it intentionally leaves perfection out of the equation. To fill that void, we are working in parallel on a solution that will allow you to generate a derivative version of Hack (with alternate glyphs) specific to your needs. So perhaps utopia after all?
 
