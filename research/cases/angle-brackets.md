@@ -1,5 +1,7 @@
 # Angle brackets: < and >
 
+- [Discussion](https://github.com/sf-playground/hack-usability/issues/3)
+
 ## Common uses
 
 - html-tags (`<tag>`)

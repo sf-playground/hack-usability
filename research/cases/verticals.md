@@ -1,5 +1,7 @@
 # Similar vertical characters: 1, l, i, |, I
 
+- [Discussion](https://github.com/sf-playground/hack-usability/issues/4)
+
 ## Usability considerations
 
 - Primary concern is that the character is recognizable within context.
