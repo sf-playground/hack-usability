@@ -1,16 +1,29 @@
 # Python
 
-## Using Python as a calculator
+## Operators
 
-```python
-2 + 2
-50 - 5*6
-(50 - 5.0*6) / 4
-8 / 5.0
+- `17 // 3.0`: explicit floor division discards the fractional part
+- `17 % 3`: % returns the remainder of the division
+- `5 ** 2`: 5^2, 5 squared
+- `2 ** 7`: 2^7, 2 to the power 7th
+- `3+5j`: 'j' indicates the imaginary part
 
-17 // 3.0 # explicit floor division discards the fractional part
-17 % 3  # the % operator returns the remainder of the division
+## Strings
 
-5 ** 2  # 5 squared
-2 ** 7  # 2 to the power of 7
-```
+- `print r'C:\some\name'` prints a raw string, no escaped chars
+- print multiline string, start with `"""\`, end with `"""`
+- `3 * 'un' + 'ium'` gives 'unununium'
+- `'Py' 'thon'` gives 'Python'
+- get a character or slice with `word[3]` and `word[1:3]`; begin and end are optional, positions can be negative
+- `u'Unicode'` and `ur'Unicode'` and `u'Hello\u0020World !'`
+- > The default encoding is normally set to ASCII, which passes through characters in the range 0 to 127 and rejects any other characters with an error.
+- `u"äöü".encode('utf-8')`
+- `unicode('\xc3\xa4\xc3\xb6\xc3\xbc', 'utf-8')`
+
+## Lists
+
+- `squares = [1, 4, 9, 16, 25]`
+- `squares[-3:]` returns `[9, 16, 25]`
+- `[1, 2, 3] + [4, 5, 6] = [1, 2, 3, 4, 5, 6]`
+- `letters[2:5] = []` removes a slice
+- `[['a', 'b', 'c'], [1, 2, 3]]` to nest lists

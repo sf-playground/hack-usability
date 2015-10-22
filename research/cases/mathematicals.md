@@ -13,7 +13,7 @@ The following keywords are often used:
 
 Common combinations:
 - comparison: `<=`, `>=`, `==`, `!==`, `===`, `!==`
-- operators: `+=`, `-=`, `*=`, `/=`, `~=`, `%=` (not sure if this one exists)
+- operators: `+=`, `-=`, `*=`, `/=`, `~=`, `++`, `--`, `%=` (not sure if this one exists)
 - decimals: `3.14`, `.25`
 - negative numbers: `-273`
 - exponent(ial?)s: `10^3`, `10.3e5`, `661.9e-2`

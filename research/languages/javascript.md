@@ -1,13 +1,15 @@
 # JavaScript
 
-As described in <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide>
+Source: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide>
 
-## Comments
+`//`: one line comment
+`/*` and `*/`: multi-line comment
 
-```javascript
-// a one line comment
 
-/* this is a longer,
-   multi-line comment
- */
- ```
+## Declarations
+
+```js
+var Number_hits = 13;
+let temp99 = "ninety nine";
+const _name = "David";
+```
