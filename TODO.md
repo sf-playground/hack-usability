@@ -23,3 +23,4 @@
 - [ ] Create a set of guidelines which all ascii-glyphs should follow; this ranges from minimum sizes of features in glyphs, to a definition of what a character does, and why it adheres to certain alignment rules for instance.
 - [ ] Research distinguishness of ascii-characters within Hack (in all supported typesizes), and compare as such to other typefaces
 - [ ] Do something with the results of the raw token analysis by @chris
+- [ ] Discuss and collect the gut-feelings changes @chrissimpkins has made when he started with Hack.
