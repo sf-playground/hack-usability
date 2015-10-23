@@ -19,9 +19,10 @@
 - `def ask_ok(prompt, retries=4, complaint='Yes or no, please!'):`
 - `parrot(1000, action='VOOOM!')`; position vs keyword arguments
 - `def function(type, *tuple, **dictionary):`; * = all position arguments, ** = all keyword arguments
-- tuple = array, dictionary = object
+- tuple = array = []
+- dictionary = object = {}
 - `print "-" * 40` prints a line of 40 dashes
-- `separator.join(arguments)`
+- `separator.join(arguments)` (NOTE: seems inverted)
 - `pairs.sort(key=lambda pair: pair[1])`
 
 ### Functions

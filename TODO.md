@@ -1,5 +1,12 @@
 # Usability TODO
 
+## Short term topics of interest
+
+- [ ] How are the various types of brackets aligned to the content they wrap?
+  - [ ] TODO separate this topic in sub-issues
+
+## Neverending list of things to research
+
 - [ ] Research (and document) programming language syntaxes to increase general knowledge on these subjects and to create a proper collection of (common) patterns, keywords, etc.
   - [ ] Javascript/Coffeescript
   - [ ] Python (@ https://docs.python.org/2/tutorial/datastructures.html)
