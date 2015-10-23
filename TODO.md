@@ -1,8 +1,8 @@
 # Usability TODO
 
 - [ ] Research (and document) programming language syntaxes to increase general knowledge on these subjects and to create a proper collection of (common) patterns, keywords, etc.
-  - [ ] Javascript / Coffeescript
-  - [ ] Python
+  - [ ] Javascript/Coffeescript
+  - [ ] Python (@ https://docs.python.org/2/tutorial/datastructures.html)
   - [ ] CSS
   - [ ] HTML
   - [ ] C(++)

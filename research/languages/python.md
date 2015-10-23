@@ -27,3 +27,19 @@
 - `[1, 2, 3] + [4, 5, 6] = [1, 2, 3, 4, 5, 6]`
 - `letters[2:5] = []` removes a slice
 - `[['a', 'b', 'c'], [1, 2, 3]]` to nest lists
+
+## Control flow tools
+
+- `if <...>:`, `elif <...>:`, `else:`
+
+## PEP 8
+
+- Use 4-space indentation, and no tabs.
+- Wrap lines so that they don't exceed 79 characters.
+- Use blank lines to separate functions and classes, and larger block of code inside functions.
+- When possible, put comments on a line of their own.
+- Use docstrings.
+- Use spaces around operators and after commas, but not directly inside bracketing constructs: `a = f(1, 2) + g(3, 4)`
+- Name your classes functions consistently; `CamelCase` for classes and `lower_case_with_underscores` for functions and methods.
+- Always use `self` as the name for the first method argument.
+- Don't use fancy encodings if your code is meant to be used in international environments. Plain ASCII works best in any case.
