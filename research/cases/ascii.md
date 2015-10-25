@@ -92,6 +92,18 @@ TODO
 
 `g`, `9`, `q`
 
+#### `<left-stems>`
+
+TODO
+
+#### `<right-stems>`
+
+TODO
+
+#### `<curved-bottoms>`
+
+TODO
+
 ### Relationships between glyphs
 
 TODO
