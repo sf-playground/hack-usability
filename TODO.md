@@ -3,7 +3,12 @@
 ## Short term topics of interest
 
 - [ ] How are the various types of brackets aligned to the content they wrap?
-  - [ ] TODO separate this topic in sub-issues
+  - [ ] Research `<brackets:round>`
+  - [ ] Research `<brackets:angle>`
+  - [ ] Research `<brackets:square>`
+  - [ ] Research `<brackets:curly>`
+  - [ ] Define a basic glyph-box template
+- [ ] What default alignments and guidelines can be deducated from the current ASCII-charset?
 
 ## Neverending list of things to research
 
