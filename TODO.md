@@ -14,7 +14,7 @@
 
 - [ ] Research (and document) programming language syntaxes to increase general knowledge on these subjects and to create a proper collection of (common) patterns, keywords, etc.
   - [ ] Javascript/Coffeescript
-  - [ ] Python (@ https://docs.python.org/2/tutorial/datastructures.html)
+  - [ ] Python (@ https://docs.python.org/2/tutorial/modules.html)
   - [ ] CSS
   - [ ] HTML
   - [ ] C(++)

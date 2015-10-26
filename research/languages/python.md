@@ -7,6 +7,8 @@
 - `5 ** 2`: 5^2, 5 squared
 - `2 ** 7`: 2^7, 2 to the power 7th
 - `3+5j`: 'j' indicates the imaginary part
+- `in` and `not in`
+- `is` and `is not`
 
 ## Strings
 
@@ -43,3 +45,5 @@
 - Name your classes functions consistently; `CamelCase` for classes and `lower_case_with_underscores` for functions and methods.
 - Always use `self` as the name for the first method argument.
 - Don't use fancy encodings if your code is meant to be used in international environments. Plain ASCII works best in any case.
+
+## Data Structures
