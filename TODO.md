@@ -2,6 +2,7 @@
 
 ## Short term topics of interest
 
+- [ ] Attempt to write a tool that does automatic measurements on various typefaces; ie, analyzing the parentheses across six fonts was a lot of work.
 - [ ] How are the various types of brackets aligned to the content they wrap?
   - [ ] Research `<brackets:round>`
   - [ ] Research `<brackets:angle>`
