@@ -92,13 +92,22 @@ TODO
 
 `g`, `9`, `q`
 
-#### `<left-stems>`
+#### Stems
 
-TODO
+Assumptions:
+- The stems of these characters (or at least of the subsets of these characters) vertically align. If any of these characters don't match up, it gives an off-balance feel.
 
-#### `<right-stems>`
+##### `<center-stems>`
 
-TODO
+`!`, `$`, `+`, `1`, `:`, `;`, `I`, `J`, `T`, `Y`, `f`, `i`, `j`, `l`, `t`, `|`
+
+##### `<left-stems>`
+
+`5`, `B`, `D`, `E`, `F`, `H`, `K`, `L`, `M`, `N`, `P`, `R`, `U`, `[`, `b`, `h`, `k`, `m`, `n`, `p`, `r`, `u`
+
+##### `<right-stems>`
+
+`H`, `M`, `N`, `U`, `]`, `d`, `h`, `m`, `n`, `u`
 
 #### `<curved-bottoms>`
 
